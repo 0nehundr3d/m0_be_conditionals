@@ -61,20 +61,24 @@ puts number_students <= 21
 
 puts 4 < 9
 #YOU DO: Explain.
+# outputs wether or not 4 is less than 8. true.
 
 books = 3
 puts 4 < books
 # YOU DO: Explain.
+# outputs wether or not 4 is less than the value of a variable named books equal to 3. false.
 
 friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
+# outputs wether or not the value of a variable named friends equal to 6 is greater than the value of a variable named siblings equal to 2. true.
 
 attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
+# outputs wether or not a variable named attendees equal to 9 is not equal to a variable named meals equal to 8. true.
 
 
 #-------------------
